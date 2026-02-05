@@ -1,3 +1,3 @@
-import { N } from "src/util";
+import { N } from "src/util/random";
 
 N;
